@@ -52,7 +52,7 @@ The project was completed in structured stages:
  * Customers with highest spending
  * Average feedback score per movie
 # Cleaned Dataset
-<a href=
+<a href="https://github.com/SUNIL-RAJ-07/Cinema-Ticket-Sales-Data-Cleaning-Analysis/blob/main/cleaned_file.xlsx">Dataset</a>
 ## Project Insights
 * Identified high-revenue movies and top-performing theatres.
 * Observed customer behavior patterns including repeat bookings.
