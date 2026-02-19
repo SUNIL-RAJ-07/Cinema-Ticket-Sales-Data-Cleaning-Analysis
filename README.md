@@ -4,3 +4,5 @@
 * The dataset contained multiple data quality issues such as missing values, duplicate records, invalid entries, inconsistent formats, and incorrect calculations.
 * The objective of this project was to transform raw, unstructured data into a clean, reliable, and analysis-ready dataset using Python and Pandas
 ## Raw Uncleaned Dataset
+<a href="https://github.com/SUNIL-RAJ-07/Cinema-Ticket-Sales-Data-Cleaning-Analysis/blob/main/cinema_ticket_sales_uncleaned.csv">Dataset</a>
+
