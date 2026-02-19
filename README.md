@@ -50,7 +50,7 @@ The project was completed in structured stages:
  * Highest revenue cities
  * Most used payment methods
  * Customers with highest spending
- * Average feedback score per movie
+ * Average feedback score per movie <a href="https://github.com/SUNIL-RAJ-07/Cinema-Ticket-Sales-Data-Cleaning-Analysis/blob/main/pandas_project.ipynb">View Code</a>
 # Cleaned Dataset
 <a href="https://github.com/SUNIL-RAJ-07/Cinema-Ticket-Sales-Data-Cleaning-Analysis/blob/main/cleaned_file.xlsx">Dataset</a>
 ## Project Insights
